@@ -31,12 +31,12 @@ derecho:ssh-keymasher$ python ssh-keymasher.py --user jdoe --directory ~/ssh_key
 {
   "10.0.1.8": {
     "invalid": [
-      "/Users/cblument/git/personal/piconf/ssh_keys//id_rsa_key3",
-      "/Users/cblument/git/personal/piconf/ssh_keys//id_rsa_key4"
+      "/Users/cblument/git/piconf/ssh_keys//id_rsa_key3",
+      "/Users/cblument/git/piconf/ssh_keys//id_rsa_key4"
     ],
     "valid": [
-      "/Users/cblument/git/personal/piconf/ssh_keys//id_rsa_key1",
-      "/Users/cblument/git/personal/piconf/ssh_keys//id_rsa_key2"
+      "/Users/cblument/git/piconf/ssh_keys//id_rsa_key1",
+      "/Users/cblument/git/piconf/ssh_keys//id_rsa_key2"
     ]
   }
 }
